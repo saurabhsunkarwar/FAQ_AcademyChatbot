@@ -1,0 +1,119 @@
+[
+  {
+    "id": "63bb3f9f-d3a2-43f1-b8d8-2437a9d105dc",
+    "data": [
+      {
+        "text": "morning batch",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e48f63eb-29c4-49ca-85de-ed62a4247b2d",
+    "data": [
+      {
+        "text": "evening batch",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4daf2428-a232-4bff-8f70-4b9c0d123023",
+    "data": [
+      {
+        "text": "see you later",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "89c46d04-055b-4b2b-8b85-50068059b619",
+    "data": [
+      {
+        "text": "have a good day",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "55809049-5952-4831-8b09-400209df437e",
+    "data": [
+      {
+        "text": "that answers my queries",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3ffd40a4-0c4c-4d4f-9f3e-707f70577de5",
+    "data": [
+      {
+        "text": "that\u0027s all I needed to know",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d2c88527-475f-48bf-85fc-39b583ff8abc",
+    "data": [
+      {
+        "text": "exit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "18042b50-49a1-4f73-9e52-7b8905c214fe",
+    "data": [
+      {
+        "text": "see yaa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4ca4bc0a-5ad5-4703-a818-00cf7faa287c",
+    "data": [
+      {
+        "text": "bye",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "value": "Driving",
+    "synonyms": [
+      "Driving",
+      "D",
+      "d"
+    ]
+  },
+  {
+    "value": "Chess",
+    "synonyms": [
+      "Chess",
+      "C",
+      "c"
+    ]
+  },
+  {
+    "value": "Swimming",
+    "synonyms": [
+      "Swimming",
+      "s"
+    ]
+  },
+  {
+    "value": "Guitar",
+    "synonyms": [
+      "Guitar",
+      "G",
+      "g"
+    ]
+  }
+]

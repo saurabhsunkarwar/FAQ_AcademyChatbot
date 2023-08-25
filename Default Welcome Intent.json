@@ -1,0 +1,45 @@
+{
+  "id": "2c65f878-b2a2-4cc1-8dfc-e9a1b37220d3",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Welcome to Sabby\u0027s All Round Academy! Which course would you like to enroll in?",
+            "Greetings! How may I assist you with your admission to Sabby\u0027s All Round Academy?",
+            "Welcome to Sabby\u0027s All Round Academy, which skills are you interested in ?",
+            "Hey buddy, what would you like to learn from Sabby\u0027s All Round Academy?",
+            "Greetings from Sabby\u0027s All Round Academy! Which course are you interested in?",
+            "Hello and Welcome to Sabby\u0027s All Round Academy, which skills are you interested in ?",
+            "Hi there! Which course would you like to enroll in Sabby\u0027s All Round Academy?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

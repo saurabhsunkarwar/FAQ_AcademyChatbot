@@ -1,0 +1,37 @@
+{
+  "id": "c56a9129-d4ee-4cf2-b357-bef34c609127",
+  "name": "enrollment",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Great !!! Preferred batch timing? Morning or Evening ?",
+            "Wonderful !! Would you like to join the morning or the evening batch?",
+            "Alright ! Please share your batch preference, morning or evening?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

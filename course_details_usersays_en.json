@@ -1,0 +1,233 @@
+[
+  {
+    "id": "290e4ec2-828f-4135-a21c-84564ba900f6",
+    "data": [
+      {
+        "text": "everything",
+        "meta": "@course_available",
+        "alias": "course_available",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ba6fe9f3-41de-440b-9db8-540399d91210",
+    "data": [
+      {
+        "text": "what can I ",
+        "userDefined": false
+      },
+      {
+        "text": "learn",
+        "meta": "@course_available",
+        "alias": "course_available",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7856379c-1653-4129-8418-fcbddd6be5a9",
+    "data": [
+      {
+        "text": "lessons",
+        "meta": "@course_available",
+        "alias": "course_available",
+        "userDefined": true
+      },
+      {
+        "text": " offered",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "81439c68-d3db-4b1d-9768-b17d12866ad3",
+    "data": [
+      {
+        "text": "lessons available",
+        "meta": "@course_available",
+        "alias": "course_available",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f875e355-9adc-444d-a071-9d00b73b0151",
+    "data": [
+      {
+        "text": "offered courses",
+        "meta": "@course_available",
+        "alias": "course_available",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c6d74400-2893-44aa-9abd-27a78b46b7a0",
+    "data": [
+      {
+        "text": "details of course",
+        "meta": "@course_available",
+        "alias": "course_available",
+        "userDefined": true
+      },
+      {
+        "text": " being offered",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2616de87-d4d9-40f2-829f-8a412e54a7e8",
+    "data": [
+      {
+        "text": "details of course offered",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "79a21b27-88d0-4ee2-b80b-e32e720dbb10",
+    "data": [
+      {
+        "text": "available courses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "85ba2556-c8d6-450b-9545-f91321c9eb41",
+    "data": [
+      {
+        "text": "enlist all courses",
+        "meta": "@course_available",
+        "alias": "course_available",
+        "userDefined": true
+      },
+      {
+        "text": " in academy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "087e54fb-1b91-4626-a205-b9b26a5d69f0",
+    "data": [
+      {
+        "text": "list all courses",
+        "meta": "@course_available",
+        "alias": "course_available",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "262508dd-3abe-41d6-8971-50e3c35ddfab",
+    "data": [
+      {
+        "text": "courses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c0b8b07e-246a-48cb-883e-47e48f7e2e95",
+    "data": [
+      {
+        "text": "course details",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "82b7b449-a762-4d1c-af3e-1675e9e4538f",
+    "data": [
+      {
+        "text": "list of courses you offer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8e2b625a-1d73-4f5b-8195-00f50c5168fe",
+    "data": [
+      {
+        "text": "list of courses available?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a2bd0484-3b2c-42dc-976c-a9d26adda1a0",
+    "data": [
+      {
+        "text": "What courses you offer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

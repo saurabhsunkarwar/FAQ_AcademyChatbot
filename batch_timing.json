@@ -1,0 +1,9 @@
+{
+  "id": "21a11ef7-b2ae-4344-b883-2c65f7a2943f",
+  "name": "batch_timing",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}
